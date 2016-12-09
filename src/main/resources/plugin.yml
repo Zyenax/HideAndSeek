@@ -1,0 +1,9 @@
+name: HideNSeek
+version: 1.0
+main: net.Blxd.main.Main
+author: Blxd
+commands:
+  team:
+    description: 
+  reset:
+    description: 
